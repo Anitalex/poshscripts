@@ -1,0 +1,1 @@
+powershell.exe set-executionpolicy unrestricted

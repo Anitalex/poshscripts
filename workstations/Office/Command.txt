@@ -1,0 +1,1 @@
+Setup.exe /config Custom.xml

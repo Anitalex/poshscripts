@@ -1,0 +1,26 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate]
+"WUServer"=-
+"WUStatusServer"=-
+"TargetGroupEnabled"=-
+"TargetGroup"=-
+"ElevateNonAdmins"=-
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU]
+"NoAutoUpdate"=dword:00000000
+"AUOptions"=-
+"ScheduledInstallDay"=-
+"ScheduledInstallTime"=-
+"NoAutoRebootWithLoggedOnUsers"=-
+"AutoInstallMinorUpdates"=-
+"RebootRelaunchTimeoutEnabled"=-
+"RebootRelaunchTimeout"=-
+"RescheduleWaitTimeEnabled"=-
+"RescheduleWaitTime"=-
+"DetectionFrequencyEnabled"=-
+"RebootWarningTimeoutEnabled"=-
+"RebootWarningTimeout"=-
+"UseWUServer"=-
+"NoAUShutdownOption"=-
+"NoAUAsDefaultShutdownOption"=-
